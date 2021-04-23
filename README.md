@@ -12,6 +12,4 @@
 - [Roblox](https://www.roblox.com/users/97718174/profile)
 
 ### Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r32er4lkalcpglq6eyxgry1ev&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=r32er4lkalcpglq6eyxgry1ev&redirect=true)
-
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r32er4lkalcpglq6eyxgry1ev&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=r32er4lkalcpglq6eyxgry1ev&redirect=true) 
