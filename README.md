@@ -5,7 +5,7 @@
 ----
 
 ### Stats
-<img src = "https://github-readme-stats.vercel.app/api?username=ukendio&theme=radical&show_icons=true">
+<img src = "https://github-readme-stats.vercel.app/api?username=ukendio&theme=radical&show_icons=true&count_private=true">
 
 ### Links
 - [Twitter](https://twitter.com/home)
